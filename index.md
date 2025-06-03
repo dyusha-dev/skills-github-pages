@@ -9,10 +9,14 @@ title: Welcome to zsd app support page!
 _Public policy_
 
 </header>
-# Политика конфиденциальности
+Политика конфиденциальности
 
 1. Авторизационные данные приложения храняться тольуо на Вашем устройстве.
 2. Для функционирования приложения обмен данными происходит напрямую сервисами ЗСД.
-3. Приложение не собирает никакую дополнительную информацию, кроме той, что собирают сервисы Google и Apple для целей статистики.
+4. Приложение не собирает никакую дополнительную информацию, кроме той, что собирают сервисы Google и Apple для целей статистики.
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+Privat policy.
+
+1. The application's authorization data is only stored on your device.
+2. For the application to function, data is exchanged directly by the WHSD services.
+3. The application does not collect any additional information other than that collected by Google and Apple services for statistical purposes.
